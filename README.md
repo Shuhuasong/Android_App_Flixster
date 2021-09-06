@@ -57,7 +57,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://recordit.co/aVsUWVtwK1`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src='https://recordit.co/aVsUWVtwK1' width=250><br>
+<img src= "https://recordit.co/aVsUWVtwK1" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
