@@ -8,8 +8,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [X] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [X] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -57,6 +57,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 <img src= "https://recordit.co/9NkHT6rJDE.gif" width=550><br>
+<img src= "https://recordit.co/pvEfZoaBLf.gif" width=550><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
