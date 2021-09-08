@@ -56,8 +56,8 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src= "https://recordit.co/9NkHT6rJDE.gif" width=550><br>
-<img src= "https://recordit.co/pvEfZoaBLf.gif" width=550><br>
+<img src= "https://recordit.co/9NkHT6rJDE.gif" width=450>  <img src= "https://recordit.co/pvEfZoaBLf.gif" width=450><br>
+<img src= "https://recordit.co/YatPZAs6ZX.gif" width=450><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
